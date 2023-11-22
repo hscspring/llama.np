@@ -4,6 +4,8 @@ Why this repo?
 
 Nothing, just to learn the model and for fun.
 
+It's better to run karpathy's [tinyllamas](https://huggingface.co/karpathy/tinyllamas).
+
 
 ## Install Deps
 
